@@ -1,0 +1,10 @@
+{
+  "simulation": "ScalaGatling.SmsCommutatorPerformanceTests",
+  "simulationId": "smscommutatorperformancetests",
+  "start": 1591443750705,
+  "description": "",
+  "scenarios": ["scn"],
+  "assertions": [
+
+  ]
+}
